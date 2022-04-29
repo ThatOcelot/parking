@@ -1,3 +1,23 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#text1 {
+    float: left;
+    width: 50%;
+}
+
+#text2 {
+    float: right;
+    width: 50%;
+}
+
+#text3 {
+    float: left;
+    width: 50%;
+}
+
+#text4 {
+    float: right;
+    width: 50%;
+}
