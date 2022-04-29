@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bc1 {
+    display: flex;
+    justify-content: center;
+}
+
+#bc2 {
+    display: flex;
+    justify-content: center;
+}
+
+#b1 {
+    text-align: right;
+}
+
+#b2 {
+    text-align: right;
+}
