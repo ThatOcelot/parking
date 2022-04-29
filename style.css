@@ -4,18 +4,24 @@ body {
 
 #bc1 {
     display: flex;
-    justify-content: center;
 }
 
 #bc2 {
     display: flex;
-    justify-content: center;
 }
 
 #b1 {
-    text-align: right;
+    text-align: left;
 }
 
 #b2 {
+    text-align: right;
+}
+
+#b3 {
+    text-align: left;
+}
+
+#b4 {
     text-align: right;
 }
